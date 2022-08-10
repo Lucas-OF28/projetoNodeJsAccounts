@@ -20,6 +20,6 @@
   "homepage": "https://github.com/Lucas-OF28/projetoNodeJsAccounts#readme",
   "dependencies": {
     "chalk": "^4.1.0",
-    "inquirer": "^8.2.0"
+    "inquirer": "^8.2.4"
   }
 }
